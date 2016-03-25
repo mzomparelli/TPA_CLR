@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TPA_CLR">
+</Property><Property Name="Solution File" Value="C:\odrive\Amazon Cloud Drive\Source Code\SQL Server\TPA_CLR\TPA_CLR.sln">
+</Property><Property Name="Date" Value="Friday, October 16, 2015">
+</Property><Property Name="Time" Value="10:15 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="1" Project="TPA_CLR" Source="TPA_CLR\TPA_CLR.vbproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="TPA_CLR" Source="TPA_CLR\TPA_CLR.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TPA_CLR" Source="TPA_CLR\TPA_CLR.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TPA_CLR.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="TPA_CLR.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="TPA_CLR" Source="TPA_CLR\TPA_CLR.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
